@@ -1,0 +1,5 @@
+# DAA-LAB
+NAME - Srikesh Reddy Gaddam
+ID - 22WU0106022
+SECTION - BIC B
+SUBJECT - DAA LAB
